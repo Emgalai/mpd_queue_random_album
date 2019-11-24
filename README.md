@@ -15,7 +15,7 @@ Is a script that adds some randomness to mpds albums.
     positional arguments:
       {random,current,search}
       random              Enqueue random albums
-      current             Enqueue album based on song currntly played
+      current             Enqueue album based on song currently played
       search              Search albums by year relesed
 
     optional arguments:
